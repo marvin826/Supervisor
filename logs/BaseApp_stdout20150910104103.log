@@ -1,0 +1,10 @@
+BaseAppTester.starting...
+BaseApp.init
+BaseApp.run...
+BaseApp.run
+BaseApp.runThread
+BaseApp.handleSignal : 15
+BaseApp.runThread : stop received
+Shutting down...
+BaseApp.shutdown
+BaseAppTester....ending

@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/home/gkaiser/Projects/Supervisor/src/BaseAppTester.py", line 1, in <module>
+    import BaseApp as ba
+  File "/home/gkaiser/Projects/Supervisor/src/BaseApp.py", line 28
+    if(self.stop_signal && self.stop_child_signal):
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/gkaiser/Projects/Supervisor/src/BaseAppTester.py", line 1, in <module>
+    import BaseApp as ba
+  File "/home/gkaiser/Projects/Supervisor/src/BaseApp.py", line 28
+    if(self.stop_signal && self.stop_child_signal):
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/gkaiser/Projects/Supervisor/src/BaseAppTester.py", line 1, in <module>
+    import BaseApp as ba
+  File "/home/gkaiser/Projects/Supervisor/src/BaseApp.py", line 28
+    if(self.stop_signal && self.stop_child_signal):
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/gkaiser/Projects/Supervisor/src/BaseAppTester.py", line 1, in <module>
+    import BaseApp as ba
+  File "/home/gkaiser/Projects/Supervisor/src/BaseApp.py", line 28
+    if(self.stop_signal && self.stop_child_signal):
+                         ^
+SyntaxError: invalid syntax
